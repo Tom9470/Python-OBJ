@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 setup(
-    name='OBJ',
+    name='HM2OBJ',
     version='1',
     license='Apache 2.0',
     author="Tom Watts",
