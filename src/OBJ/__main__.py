@@ -10,7 +10,7 @@ def _Min(dat):
 
 def CreateSurface(filename,data):
     """
-    Creates a Surface from a heightmap. File created is a Wavefront OBJ object.
+    Creates a Surface from a heightmap. File created is a Wavefront .OBJ object.
 
     :parameters:
         `filename` : the filename to store the object in.
