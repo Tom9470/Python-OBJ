@@ -1,0 +1,8 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+src/HM2OBJ.egg-info/PKG-INFO
+src/HM2OBJ.egg-info/SOURCES.txt
+src/HM2OBJ.egg-info/dependency_links.txt
+src/HM2OBJ.egg-info/top_level.txt
